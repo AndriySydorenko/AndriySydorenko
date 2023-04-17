@@ -1,12 +1,1 @@
-Hello qeqweqweadsdas
-asdads
-asd
-asd
-das
-ads
-z
-xc
-zxc
-xzc
-xcz
-
+Hello, my name is Andrii and i am is QA
