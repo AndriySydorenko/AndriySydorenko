@@ -1,1 +1,1 @@
-Hello, my name is Andrii and i am is QA
+Hello, my name is Andrii and i am QA
